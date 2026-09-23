@@ -237,7 +237,7 @@ if __name__ == "__main__":
         
         if results:
             for result in results:
-                print(f"📄 {result['filename']}")
+                print(f"   {result['filename']}")
                 print(f"   Class: {result['risk_class']}")
                 print(f"   Keywords: {result['keywords']}\n")
         else:
