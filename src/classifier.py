@@ -6,7 +6,7 @@ HYBRID APPROACH:
 
 Usage:
     python src/classifier.py                         # Classify all documents
-    python src/classifier.py --query "orthopedic"    # Search for relevant guidance
+    python src/classifier.py --query "510(k)"    # Search for relevant guidance
 
 Output:
     - data/processed/classified_documents.csv (risk class + keywords)
