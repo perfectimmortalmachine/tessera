@@ -41,7 +41,7 @@ python src/classifier.py --query "510(k)"
 ## Results
 
 - **20 FDA guidance PDFs** classified
-- **Class I**: 0 docs | **Class II**: 10 docs (50%) | **Class III**: 3 docs | **General**: 6 docs
+- **Class I**: 0 docs | **Class II**: 11 docs | **Class III**: 3 docs | **General**: 6 docs
 - **Accuracy**: 100% (ground truth: filename prefixes)
 - **Keywords extracted**: Top 10 domain-specific regulatory terms per document
 
